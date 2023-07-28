@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+#title:  "Welcome to Jekyll!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Our body cannot survive without food, it is important what kind of food we should eat. The research says “We are what we eat”, the kind of food we eat influences the state of our mind. Diet and exercise could be ways to have good physical and mental health, they could also prevent and manage many chronic diseases. We offer a holistic lifestyle program focusing on plant-based, whole-food nutrition, yoga, meditation, and spiritual practices.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
