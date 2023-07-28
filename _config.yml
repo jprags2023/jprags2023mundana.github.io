@@ -19,7 +19,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-Authors: # PJ changed  from Authors to Team Members  
+authors: # PJ changed  from authors to Team Members  
    sal:
       name:           Pragati Jain
       #site:          https://www.wowthemes.net
