@@ -19,8 +19,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-Team Members:
-    Pragati:
+Team Members: # PJ changed  from Authors to Team Members  
+   Pragati:
       name:           Pragati Jain
       #site:          https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
