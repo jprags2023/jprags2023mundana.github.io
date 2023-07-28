@@ -4,7 +4,12 @@ layout: post
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-Our body cannot survive without food, it is important what kind of food we should eat. The research says “We are what we eat”, the kind of food we eat influences the state of our mind. Diet and exercise could be ways to have good physical and mental health, they could also prevent and manage many chronic diseases. We offer a holistic lifestyle program focusing on plant-based, whole-food nutrition, yoga, meditation, and spiritual practices.
+Welcome to our transformative community of dedicated scientists and scholars on a quest to merge the deep knowledge from the Vedas with cutting-edge scientific advancements. Our primary aim is to illuminate the perfect path toward a happy life, while effortlessly evading diseases and suffering.
+
+Using thousands of years of accumulated wisdom from countless sacred texts, we have curated a wealth of knowledge to present to you an experimentally proven approach to living a happy and healthy life. Our mission encompasses the well-being of both your mind and body, achieved through healthy 
+nourishment and conscious thought. 
+
+Our body cannot survive without food, it is important what kind of food we should eat. The research says “We are what we eat”, the kind of food we eat influences the state of our mind. Diet and exercise could be ways to have good physical and mental health, they could also prevent and manage many chronic diseases. We offer a holistic lifestyle program focusing on plant-based, whole-food nutrition, yoga, meditation, and spiritual practices. 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
