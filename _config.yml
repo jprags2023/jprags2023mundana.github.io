@@ -19,8 +19,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-Team Members: # PJ changed  from Authors to Team Members  
-   Pragati:
+Authors: # PJ changed  from Authors to Team Members  
+   sal:
       name:           Pragati Jain
       #site:          https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
@@ -28,7 +28,7 @@ Team Members: # PJ changed  from Authors to Team Members
       email:          jprags2015@gmail.com
       #twitter:        https://twitter.com/wowthemesnet
 
-   # jane:
+    jane:
    #   name:           Jane
    #   site:           https://www.wowthemes.net
    #   avatar:         /assets/images/avatar2.jpg
